@@ -6,11 +6,9 @@
 
 ### `Deploy`
 
-
+https://github-finder-js-project.netlify.app/
 
 ### `Screen`
 
 ![](GithubFinder.gif)
 
-
-# Github-Finder-JavaScript-Project
