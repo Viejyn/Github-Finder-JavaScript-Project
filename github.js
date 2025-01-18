@@ -1,8 +1,8 @@
 export class Github {
     // istek atmak için gerekli olan bilgiler
     constructor () {
-        this.client_id = 'e49fef78d819b970b13d';
-        this.client_secret = 'c8d1a5a3748a330f1c22174e47ae62dfe0b9e7c6';
+        this.client_id = process.env.REACT_APP_CLIENT_ID;
+        this.client_secret = process.env.REACT_APP_CLIENT_SECRET;
         this.per_page = 10;
         this.sort = "asc";
     }
