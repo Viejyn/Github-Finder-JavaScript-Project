@@ -12,4 +12,3 @@ https://github-finder-js-project.netlify.app/
 
 ![](GithubFinder.gif)
 
-# Github-Finder-JavaScript-Project
